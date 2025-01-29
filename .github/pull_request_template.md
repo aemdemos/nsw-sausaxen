@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--nsw-sausaxen--aemdemos.hlx.live/
-- After: https://<branch>--nsw-sausaxen--aemdemos.hlx.live/
+- Before: https://main--nsw-sausaxen--aemdemos.aem.live/
+- After: https://main--nsw-sausaxen--aemdemos.aem.live/
