@@ -1,0 +1,104 @@
+{
+  "originUrl": "https://boggabri-p.schools.nsw.gov.au",
+  "totalUrls": 48,
+  "urls": [
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/news/2023/5.html",
+      "repCount": 8
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/about-our-school/school-planning-and-reporting.html",
+      "repCount": 6
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/events/2024/8.html",
+      "repCount": 5
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety.html",
+      "repCount": 4
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/newsletter/2023/6.html",
+      "repCount": 4
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school/helping-with-english-and-literacy.html",
+      "repCount": 2
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/events/2024.html",
+      "repCount": 2
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/news/2023.html",
+      "repCount": 2
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/newsletter/2023.html",
+      "repCount": 2
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/about-our-school.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students/student-health-and-safety/school-counselling-service.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students/help-with-homework/homework-tips-for-primary-school.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/supporting-our-students/parents--carers-and-the-community/primary-school-routines.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/learning-at-our-school.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/learning-at-our-school/learning-from-home.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/gallery.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/events.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/news.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/newsletter.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://boggabri-p.schools.nsw.gov.au/contact-us.html",
+      "repCount": 1
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "logger": {}
+  },
+  "method": "SITEMAP"
+}
